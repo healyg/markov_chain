@@ -1,1 +1,1 @@
-from markov import MarkovChain
+from markov_python import MarkovChain
